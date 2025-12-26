@@ -1326,13 +1326,6 @@ class StudentSystem {
                         <button class="modal-close" onclick="window.studentSystem.closeModal('login-modal')">&times;</button>
                     </div>
                     <div class="modal-body">
-                        <div style="margin-bottom: 20px;">
-                            <small style="color: #666; display: block; margin-bottom: 10px;">Тестовые пользователи:</small>
-                            <div style="background: #f8f9fa; padding: 10px; border-radius: 8px; font-size: 0.9rem;">
-                                <div><strong>Админ:</strong> admin / admin123</div>
-                                <div><strong>Студент:</strong> student1 / student123</div>
-                            </div>
-                        </div>
                         <form id="modal-login-form">
                             <div class="form-group">
                                 <label>Логин</label>
